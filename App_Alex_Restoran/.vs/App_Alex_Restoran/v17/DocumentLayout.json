@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\",
+  "WorkspaceRootPath": "D:\\asdafsg\\App\\App-Alex-Restoran\\App_Alex_Restoran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|c:\\d\\app rest-alex\\app\\app-alex-restoran\\app_alex_restoran\\assets\\scripts\\ui\\usersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\usersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|c:\\d\\app rest-alex\\app\\app-alex-restoran\\app_alex_restoran\\assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\assets\\scripts\\test\\testdenlern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\test\\testdenlern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\assets\\scripts\\ui\\mainpanels\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainpanels\\uicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\assets\\scripts\\ui\\registration\\meinregistrationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\registration\\meinregistrationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|d:\\asdafsg\\app\\app-alex-restoran\\app_alex_restoran\\assets\\den.scen\\denpanels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\den.scen\\denpanels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserInfo.cs",
-              "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\AllicationUser\\UserInfo.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\AllicationUser\\UserInfo.cs",
-              "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\AllicationUser\\UserInfo.cs",
-              "RelativeToolTip": "Assets\\Scripts\\AllicationUser\\UserInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:22:35.201Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersUI.cs",
-              "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\UsersUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UsersUI.cs",
-              "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\UsersUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\UsersUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAAAAAAAAAAAA==",
+              "Title": "DenPanels.cs",
+              "DocumentMoniker": "D:\\asdafsg\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Den.Scen\\DenPanels.cs",
+              "RelativeDocumentMoniker": "Assets\\Den.Scen\\DenPanels.cs",
+              "ToolTip": "D:\\asdafsg\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Den.Scen\\DenPanels.cs",
+              "RelativeToolTip": "Assets\\Den.Scen\\DenPanels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-04T19:19:01.472Z",
+              "WhenOpened": "2025-11-07T17:32:05.991Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TestDenLern.cs",
-              "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\Test\\TestDenLern.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Test\\TestDenLern.cs",
-              "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\Test\\TestDenLern.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Test\\TestDenLern.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA8AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:58:44.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UIController.cs",
-              "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\MainPanels\\UIController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainPanels\\UIController.cs",
-              "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\MainPanels\\UIController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI\\MainPanels\\UIController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCcAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:34:56.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MeinRegistrationUI.cs",
-              "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\Ui\\Registration\\MeinRegistrationUI.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Ui\\Registration\\MeinRegistrationUI.cs",
-              "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\Ui\\Registration\\MeinRegistrationUI.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Ui\\Registration\\MeinRegistrationUI.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T17:40:02.416Z"
             }
           ]
         }
