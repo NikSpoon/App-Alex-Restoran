@@ -1,37 +1,47 @@
+using NUnit.Framework;
+using System;
 using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class TestDenLern : MonoBehaviour
 {
     
-    int a = 1;
-    string d = "1";
+    string d = "sdgewtWFAgsGqwrqwrFASFJBVUVRUQBRbqyirburwbiywBVIYFGIYBFIYBGFISENBg";
 
+    
     void Update()
     {
-        var q = 5;
-        if (Input.GetKey(KeyCode.A))
-        {
-            StartCoroutine(Wq(q));
-        }
-        if (Input.GetKey(KeyCode.S))
-        {
-            Debug.Log(q + d);
-        }
-    }
+        int randomInt = UnityEngine.Random.Range(-100, 10000);
 
-   public IEnumerator Wq(int t)
-    {
-        var time = 5;
-
-        for (int i = 0; i < time; i++)
+        if (Input.GetKey(KeyCode.Space))
         {
-            Debug.Log(5 - i + " = Timer");
-          yield return new WaitForSeconds(1);
+            RegrupArr(d);
+            Console.WriteLine(randomInt);
         }
+        
        
-        Debug.Log(t + a);
+    }
+    private void RegrupArr(string st)
+    {
+        char[] array = new char[d.Length];
+
+        for (int i = 0; i < d.Length; i++)
+        {
+            array[i] = d[i];
+        }
+
+        for (int i = 0; i < array.Length; i++)
+        {
+            array[i] += char.ToLower(array[i]);
+
+        }
+
+        array[0] += char.ToUpper(array[0]);
+        array[array.Length - 1] += char.ToUpper(array[array.Length - 1]);
+        Console.WriteLine(array);
 
     }
-  
+
 }
