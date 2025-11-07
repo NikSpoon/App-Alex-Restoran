@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|c:\\d\\app rest-alex\\app\\app-alex-restoran\\app_alex_restoran\\assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|c:\\d\\app rest-alex\\app\\app-alex-restoran\\app_alex_restoran\\assets\\scripts\\ui\\usersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\usersui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|c:\\d\\app rest-alex\\app\\app-alex-restoran\\app_alex_restoran\\assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\allicationuser\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E6078EEC-1AB1-22AB-5844-1836C31CE309}|Assembly-CSharp.csproj|C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\assets\\scripts\\test\\testdenlern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,30 +34,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\AllicationUser\\UserInfo.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\AllicationUser\\UserInfo.cs",
               "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\AllicationUser\\UserInfo.cs",
               "RelativeToolTip": "Assets\\Scripts\\AllicationUser\\UserInfo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAwAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T19:22:35.201Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UsersUI.cs",
               "DocumentMoniker": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\UsersUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UsersUI.cs",
               "ToolTip": "C:\\D\\APP Rest-Alex\\App\\App-Alex-Restoran\\App_Alex_Restoran\\Assets\\Scripts\\UI\\UsersUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UsersUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T19:19:01.472Z",
               "EditorCaption": ""
