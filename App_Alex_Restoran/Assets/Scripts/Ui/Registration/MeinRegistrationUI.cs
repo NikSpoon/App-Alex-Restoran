@@ -25,7 +25,7 @@ public class MeinRegistrationUI : MonoBehaviour
     {
         if (CheckLoginInfo()== true)
         {
-            SceneManager.LoadScene(1);
+            Context.Instance.AppUISystem.Trigger(Fsm.AppUI.AppTriger.ToMainPanel);
         }
         else
         {

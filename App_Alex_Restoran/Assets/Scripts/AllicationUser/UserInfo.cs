@@ -1,10 +1,7 @@
-using System.Collections.Generic;
-using UnityEngine;
 
-public class UserInfo : MonoBehaviour
+public class UserInfo 
 {
-    public static UserInfo Instance { get; private set; }
-
+ 
     public string Name = "Den";
     public string Password = "Nikita";
 
@@ -12,19 +9,6 @@ public class UserInfo : MonoBehaviour
     public int Status = 1;
     public int Bonuses = 1441;
     public int Visitor = 4;
-
-   
-    private void Awake()
-    {
-        if (Instance != null && Instance != this)
-        {
-            Destroy(gameObject);
-            return;
-        }
-
-        Instance = this;
-        DontDestroyOnLoad(gameObject);
-    }
 
     public void AddUser()
     {
