@@ -11,7 +11,7 @@ public class UsersUI : MonoBehaviour
 
     private void Awake()
     {
-        _userInfo = UserInfo.Instance;
+        _userInfo = Context.Instance.UserInfo;
     }
     private void Start()
     {
