@@ -19,11 +19,11 @@ public class MeinRegistrationUI : MonoBehaviour
     }
     private void Start()
     {
-        
+
     }
     public void OnEnter()
     {
-        if (CheckLoginInfo()== true)
+        if (CheckLoginInfo() == true)
         {
             Context.Instance.AppUISystem.Trigger(Fsm.AppUI.AppTriger.ToMainPanel);
         }
@@ -31,7 +31,7 @@ public class MeinRegistrationUI : MonoBehaviour
         {
             OnRegistration();
         }
-        
+
     }
 
     public void OnRegistration()
@@ -49,9 +49,17 @@ public class MeinRegistrationUI : MonoBehaviour
 
     private bool CheckLoginInfo()
     {
-        _login = _loginText.text;
-        _password = _passwordText.text;
+        if (_login!= null && _password != null)
+        {
+            _login = _loginText.text;
+            _password = _passwordText.text;
+            return true;
 
-        return true;
+        }
+        else
+        {
+            return false;
+        }
+
     }
 }
